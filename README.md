@@ -19,7 +19,7 @@ To use LocalRAG, follow these steps:
 1. Clone the repository:
 
     ```
-    git clone <repository-url>
+    git clone https://github.com/arapellis-odysseas/localRag
     ```
 
 2. Navigate to the cloned directory:
